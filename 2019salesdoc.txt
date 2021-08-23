@@ -1,1 +1,1 @@
-hello gitcola
+gitcola, all merged to master with test
