@@ -1,2 +1,1 @@
-all merged to master with test
-added other stuff to github desjktop
+github desktop, all merged to master with test
