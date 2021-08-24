@@ -1,2 +1,2 @@
 all merged to master with test
-github desktop now
+added other stuff to github desjktop
